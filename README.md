@@ -3,7 +3,7 @@ A REST API for creating and managing user accounts made with Django.
 
 # Technologies Used 
 
- - Django = 2.2.2
+ - Django = 2
  - djangorestframework = 3.9.4
  - djangorestframework-jwt = 1.11.0
  - Python = 3.6+
